@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Typhu88 - typhu88.poker - Nhà Cái Hàng Đầu với Danh Mục Sản Phẩm Đa Dạng và Dịch Vụ Chất Lượng Cao
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Typhu88 <https://typhu88.poker/>`_ là cổng game cá cược trực tuyến với kho game khổng lồ, đa dạng kiểu cược thú vị hấp dẫn. Hứa hẹn mang đến trải nghiệm cược kịch tính cho đông đảo người tham gia.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 117 Đường số 44, Phường 10, Quận 6, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0836577700. 
 
-Contents
---------
+Email: info@typhu88.poker. 
 
-.. toctree::
+Website: https://typhu88.poker/
 
-   usage
-   api
+#typhu88 #nhacaityphu88 #trangchutyphu88 #dangkytyphu88 #linktyphu88
